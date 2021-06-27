@@ -20,6 +20,7 @@ https://youtu.be/vlurLmQFeLE
 The codes are licensed under open-source MIT license.
 
 For any utilization of the code content of this repository, one of the following books needs to get cited by the user: 
+
 A. Küçük and I. M. S. Panahi, "Convolutional Recurrent Neural Network Based Direction of Arrival Estimation Method Using Two Microphones for Hearing Studies," 2020 IEEE 30th International Workshop on Machine Learning for Signal Processing (MLSP), 2020, pp. 1-6, doi: 10.1109/MLSP49062.2020.9231693.
 
 
